@@ -1,4 +1,4 @@
-# iperf_both_ways script
+# Do an iperf3 test both ways : `iperf_both_ways.zsh` or `iperf_both_ways.sh`
 
 Do an iperf3 test both ways in only one command.
 
